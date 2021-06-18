@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hi Tock !</string>
+    <string name="message_one_stepper">Welcome to Hi Tock !</string>
+    <string name="message_two_stepper">Connect, meet , talk to other people in the team</string>
+    <string name="message_three_stepper">Build,share and improve your knowledge !</string>
+    <string name="content">Content</string>
+</resources>

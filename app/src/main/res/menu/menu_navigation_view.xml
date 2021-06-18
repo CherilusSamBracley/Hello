@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_one_nv"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Dashboard">
+
+    </item>
+
+    <item
+        android:id="@+id/item_two_nv"
+        android:icon="@drawable/ic_course"
+        android:title="Course">
+
+    </item>
+
+    <item
+        android:id="@+id/item_three_nv"
+        android:icon="@drawable/ic_home_work"
+        android:title="Home work place">
+
+    </item>
+
+    <item
+        android:id="@+id/item_four_nv"
+        android:icon="@drawable/ic_award"
+        android:title="Award Page">
+
+    </item>
+
+
+    <item
+        android:id="@+id/item_five_nv"
+        android:icon="@drawable/ic_meeting"
+        android:title="Meeting">
+
+    </item>
+
+    <item
+        android:id="@+id/item_six_nv"
+        android:icon="@drawable/ic_notification"
+        android:title="Notification Page">
+
+    </item>
+
+
+    <item
+        android:id="@+id/item_nine_nv"
+        android:icon="@drawable/ic_admin"
+        android:title="Administrator ">
+
+    </item>
+
+
+    <item
+        android:id="@+id/item_seven_nv"
+        android:icon="@drawable/ic_help"
+        android:title="Help Center">
+
+    </item>
+
+
+    <item
+        android:id="@+id/item_height_nv"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout">
+
+    </item>
+
+
+
+
+
+
+
+
+</menu>
